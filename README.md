@@ -1,5 +1,6 @@
 Gupshup: A Real-Time Communication Platform
 Introduction
+
 Gupshup is a full-stack, real-time chat application engineered utilizing the MERN stack, which comprises MongoDB, Express.js, React, and Node.js. The platform is designed to provide a seamless and interactive communication experience, offering a suite of features including one-on-one messaging, user presence monitoring, and multimedia content sharing.
 
 Core Features
